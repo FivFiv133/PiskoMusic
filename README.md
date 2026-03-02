@@ -1,3 +1,3 @@
 # PiskoMusic
 
-version: 0.666
+version: 0.1
